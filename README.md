@@ -1,14 +1,14 @@
 # GetSyscallID
 
-get system call number dynamically, it doesn't need the system call table.
+get windows system call number dynamically, it doesn't need the system call table.
 
 ## Try
 
 ### help
 
 ```shell
-> ./get.exe -help    
-Usage of D:\Code\Repo\getsyscallid\cmd\get.exe:
+> ./getsyscallid.exe -help    
+Usage of getsyscallid.exe:
   -proc string
         The name of the api name from ntdll.dll (default "NtCreateProcess")
 ```
