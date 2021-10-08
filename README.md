@@ -4,6 +4,12 @@ get windows system call number dynamically, it doesn't need the system call tabl
 
 ## Try
 
+### download
+
+```shell
+go get github.com/akkuman/getsyscallid/cmd/getsyscallid
+```
+
 ### help
 
 ```shell
